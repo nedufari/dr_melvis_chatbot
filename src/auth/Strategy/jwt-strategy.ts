@@ -18,6 +18,7 @@ export class JwtStrategy extends PassportStrategy(Strategy){
         email:string;
     }){
         const user =await this.typeorm
+        //the game 
     }
 
 
