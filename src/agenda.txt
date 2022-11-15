@@ -1,0 +1,5 @@
+1. start with all the dto of the various services first
+2. tackle the auth , make the guard, strategy, decorators and the controllers and the service of the auth 
+3. fire up all the routes to text and also do e2e testing for all the work 
+4. NLU(naturl language understanding) for the intents, tokenizations and the training
+
